@@ -1,0 +1,14 @@
+{
+    "Columns" : 3,
+    "Rows" : 3,
+    "tiles" : [ [ 1, 1, 1],
+               [ 1, 1, 1],
+               [ 1, 1, 1],
+
+               ],
+    "targetScore" : 500,
+    "moves" : 10,
+    "aims" : [1],
+    "levelAims" : [1, 2, 6, 5, 4],
+    "targetAims" : [12, 0, 0, 0, 0],
+}

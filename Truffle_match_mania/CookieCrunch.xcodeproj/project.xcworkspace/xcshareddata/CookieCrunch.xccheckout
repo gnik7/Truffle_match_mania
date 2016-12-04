@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62F87C81-C964-4FF9-A45C-3AF9090FB0E5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CookieCrunch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF95D124FEBF2BA3C31EA9FD836E531F845E622D</key>
+		<string>https://gitlab.com/ngil7/Truffle_match_mania.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CookieCrunch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF95D124FEBF2BA3C31EA9FD836E531F845E622D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://gitlab.com/ngil7/Truffle_match_mania.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF95D124FEBF2BA3C31EA9FD836E531F845E622D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF95D124FEBF2BA3C31EA9FD836E531F845E622D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Truffle_match_mania</string>
+		</dict>
+	</array>
+</dict>
+</plist>
